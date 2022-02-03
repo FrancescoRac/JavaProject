@@ -92,7 +92,6 @@ public class WeatherImpl implements WeatherInt {
 				scan.close();
 			}
 		} catch (Exception e) {
-
 			e.printStackTrace();
 		}
 
